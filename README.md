@@ -9,16 +9,7 @@
   <br>
   <p>:trollface: <b>哪吒监控</b> 一站式轻监控轻运维系统。支持系统状态、HTTP(SSL 证书变更、即将到期、到期)、TCP、Ping 监控报警，计划任务和在线终端。</p>
 </div>
-
-\>> QQ 交流群：872069346 **加群要求：已搭建好哪吒监控 & 有 2+ 服务器， 机器人自动审核**
-
-\>> [我们的用户](https://www.google.com/search?q="powered+by+哪吒监控"&filter=0) (Google)
-
-| 默认主题                                                                                 | DayNight [@JackieSung](https://github.com/JackieSung4ev)                                               | hotaru                                                                     |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| ![默认主题](resource/template/theme-default/screenshot.png)                              | <img src="resource/template/theme-daynight/screenshot.png" width="3000px"/>                            | <img src="resource/template/theme-hotaru/screenshot.png" width="1500px" /> |
-| <div align="center"><b>默认主题魔改 <a href="https://ii.do/43.html">[教程]</a></b></div> | <div align="center"><b>Neko Mdui <a href="https://github.com/MikoyChinese">@MikoyChinese</a></b></div> |                                                                            |
-| ![默认主题魔改](https://cdn.jsdelivr.net/gh/idarku/img@main/me/1631120192341.webp)       | ![Neko Mdui](resource/template/theme-mdui/screenshot.png)                                              |                                                                            |
+                                                                          |
 
 ## 安装脚本
 
